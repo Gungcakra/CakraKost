@@ -1,0 +1,72 @@
+{
+  "private": true,
+  "name": "steex",
+  "version": "1.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "author": "Themesbrand",
+  "browserslist": [
+    "last 2 version",
+    "> 2%"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "del": "6.1.0",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cached": "1.1.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-file-include": "2.3.0",
+    "gulp-if": "^3.0.0",
+    "gulp-npm-dist": "^1.0.4",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "1.1.4",
+    "gulp-rtlcss": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "3.0.2",
+    "gulp-useref-plus": "0.0.8",
+    "sass": "1.63.6"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^38.1.0",
+    "@simonwep/pickr": "^1.8.2",
+    "@tarekraafat/autocomplete.js": "^10.2.7",
+    "apexcharts": "^3.41.0",
+    "bootstrap": "5.3.0",
+    "card": "^2.5.4",
+    "choices.js": "10.2.0",
+    "cleave.js": "^1.6.0",
+    "dropzone": "^6.0.0-beta.2",
+    "echarts": "^5.4.2",
+    "fg-emoji-picker": "^1.0.1",
+    "flatpickr": "^4.6.13",
+    "fullcalendar": "^6.1.8",
+    "glightbox": "^3.2.0",
+    "gmaps": "^0.4.25",
+    "gridjs": "^6.0.6",
+    "jsvectormap": "1.5.3",
+    "leaflet": "^1.9.4",
+    "leaflet-routing-machine": "^3.2.12",
+    "list.js": "^2.3.1",
+    "list.pagination.js": "^0.1.1",
+    "masonry-layout": "^4.2.2",
+    "moment": "2.24.0",
+    "multi.js": "^0.5.3",
+    "nouislider": "^15.7.1",
+    "prismjs": "^1.29.0",
+    "rater-js": "^1.0.1",
+    "simplebar": "6.2.5",
+    "sortablejs": "^1.15.0",
+    "sweetalert2": "^11.7.12",
+    "swiper": "^10.0.3",
+    "toastify-js": "^1.12.0",
+    "wnumb": "^1.2.0"
+  },
+  "resolutions": {
+    "autoprefixer": "10.4.5"
+  }
+}

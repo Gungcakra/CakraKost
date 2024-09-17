@@ -1,0 +1,199 @@
+[
+    {
+        "id": 1,
+        "product": [{
+            "img": "assets/images/products/img-1.png",
+            "img_alt": "img-1.png",
+            "title": "Cotton collar tshirts for men"
+        }],
+        "category": "Fashion",
+        "stock": "12",
+        "price": "$215.00",
+        "discount": "25%",
+        "orders": "06",
+        "ratings": "4.9",
+        "publish": "12 Oct, 2022"
+    },{
+        "id": 2,
+        "product": [{
+            "img": "assets/images/products/img-2.png",
+            "img_alt": "img-2.png",
+            "title": "Like style travel black handbag"
+        }],
+        "category": "Luggage",
+        "stock": "06",
+        "price": "$160.00",
+        "discount": "0%",
+        "orders": "02",
+        "ratings": "4.3",
+        "publish": "06 Jan, 2023"
+    },{
+        "id": 3,
+        "product": [{
+            "img": "assets/images/products/img-3.png",
+            "img_alt": "img-3.png",
+            "title": "Fossil Gen 5E Smart Watch"
+        }],
+        "category": "Watches",
+        "stock": "19",
+        "price": "$120.00",
+        "discount": "42%",
+        "orders": "21",
+        "ratings": "4.3",
+        "publish": "26 Mar, 2021"
+    },{
+        "id": 4,
+        "product": [{
+            "img": "assets/images/products/img-4.png",
+            "img_alt": "img-4.png",
+            "title": "Super Bass Blutooth wireless headphone"
+        }],
+        "category": "Headphones",
+        "stock": "23",
+        "price": "$180.00",
+        "discount": "0%",
+        "orders": "19",
+        "ratings": "4.1",
+        "publish": "19 Apr, 2021"
+    },{
+        "id": 5,
+        "product": [{
+            "img": "assets/images/products/img-5.png",
+            "img_alt": "img-5.png",
+            "title": "Willage Volleyball Ball Size 4"
+        }],
+        "category": "Sports",
+        "stock": "30",
+        "price": "$99.00",
+        "discount": "10%",
+        "orders": "21",
+        "ratings": "4.0",
+        "publish": "30 Mar, 2021"
+    },{
+        "id": 6,
+        "product": [{
+            "img": "assets/images/products/img-6.png",
+            "img_alt": "img-6.png",
+            "title": "Blive Printed Men Round Neck"
+        }],
+        "category": "Fashion",
+        "stock": "35",
+        "price": "$250.00",
+        "discount": "0%",
+        "orders": "02",
+        "ratings": "3.8",
+        "publish": "12 Oct, 2021"
+    },{
+        "id": 7,
+        "product": [{
+            "img": "assets/images/products/img-7.png",
+            "img_alt": "img-7.png",
+            "title": "Cotton collar tshirts for men"
+        }],
+        "category": "Fashion",
+        "stock": "12",
+        "price": "$180.00",
+        "discount": "0%",
+        "orders": "10",
+        "ratings": "4.0",
+        "publish": "15 May, 2021"
+    },{
+        "id": 8,
+        "product": [{
+            "img": "assets/images/products/img-8.png",
+            "img_alt": "img-8.png",
+            "title": "Full Sleeve Solid Men Sweatshirt/Hoody"
+        }],
+        "category": "Fashion",
+        "stock": "20",
+        "price": "$260.00",
+        "discount": "12%",
+        "orders": "20",
+        "ratings": "4.1",
+        "publish": "21 Jun, 2021"
+    },{
+        "id": 9,
+        "product": [{
+            "img": "assets/images/products/img-10.png",
+            "img_alt": "img-10.png",
+            "title": "Men's Round Neck Half Sleeves Solid T-Shirt"
+        }],
+        "category": "Fashion",
+        "stock": "21",
+        "price": "$160.00",
+        "discount": "0%",
+        "orders": "08",
+        "ratings": "4.4",
+        "publish": "15 Jan, 2021"
+    },{
+        "id": 10,
+        "product": [{
+            "img": "assets/images/products/img-9.png",
+            "img_alt": "img-9.png",
+            "title": "Flip-Flops and House Slippers"
+        }],
+        "category": "Footwear",
+        "stock": "30",
+        "price": "$150.00",
+        "discount": "0%",
+        "orders": "10",
+        "ratings": "4.2",
+        "publish": "06 Jan, 2023"
+    },{
+        "id": 11,
+        "product": [{
+            "img": "assets/images/products/img-11.png",
+            "img_alt": "img-11.png",
+            "title": "Jeans blue men boxer"
+        }],
+        "category": "Fashion",
+        "stock": "50",
+        "price": "$97.99",
+        "discount": "25%",
+        "orders": "51",
+        "ratings": "3.9",
+        "publish": "12 Oct, 2021"
+    },{
+        "id": 12,
+        "product": [{
+            "img": "assets/images/products/img-12.png",
+            "img_alt": "img-12.png",
+            "title": "MAG back to the future shoes"
+        }],
+        "category": "Footwear",
+        "stock": "06",
+        "price": "$274.99",
+        "discount": "0%",
+        "orders": "06",
+        "ratings": "4.2",
+        "publish": "06 Jan, 2021"
+    },{
+        "id": 13,
+        "product": [{
+            "img": "assets/images/products/img-4.png",
+            "img_alt": "img-4.png",
+            "title": "Super Bass Blutooth wireless headphone"
+        }],
+        "category": "Headphones",
+        "stock": "23",
+        "price": "$180.00",
+        "discount": "0%",
+        "orders": "19",
+        "ratings": "4.1",
+        "publish": "19 Apr, 2021"
+    },{
+        "id": 14,
+        "product": [{
+            "img": "assets/images/products/img-7.png",
+            "img_alt": "img-7.png",
+            "title": "Cotton collar tshirts for men"
+        }],
+        "category": "Fashion",
+        "stock": "12",
+        "price": "$180.00",
+        "discount": "0%",
+        "orders": "10",
+        "ratings": "4.0",
+        "publish": "15 May, 2021"
+    }
+]

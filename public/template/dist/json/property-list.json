@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "property": [{
+            "type": "Residency",
+            "title": "Duplex Square Valley",
+            "img": "assets/images/real-estate/img-05.jpg",
+            "img_alt": "img-05.jpg"
+        }],
+        "location": "Distrito Federal, Brazil",
+        "facility": [{
+            "bedroom": "3",
+            "bathroom": "2",
+            "area": "1039"
+        }],
+        "rating": "4.4",
+        "price": "$2579.31",
+        "starred": false,
+        "agent": "Buck Roberts",
+        "requirement": "Rent"
+    },{
+        "id": 2,
+        "property": [{
+            "type": "Villa",
+            "title": "Whitepace Vintage Villa",
+            "img": "assets/images/real-estate/img-04.jpg",
+            "img_alt": "img-04.jpg"
+        }],
+        "location": "Cantabria, Spain",
+        "facility": [{
+            "bedroom": "4",
+            "bathroom": "2",
+            "area": "1754"
+        }],
+        "rating": "4.9",
+        "price": "$3495.76",
+        "starred": true,
+        "agent": "Axel Kozey",
+        "requirement": "Sale"
+    },{
+        "id": 3,
+        "property": [{
+            "type": "Villa",
+            "title": "Crystal House",
+            "img": "assets/images/real-estate/img-06.jpg",
+            "img_alt": "img-06.jpg"
+        }],
+        "location": "Guipuzcua, Spain",
+        "facility": [{
+            "bedroom": "2",
+            "bathroom": "1",
+            "area": "1039"
+        }],
+        "rating": "4.8",
+        "price": "$1249.99",
+        "starred": true,
+        "agent": "Uriel King",
+        "requirement": "Sale"
+    },{
+        "id": 4,
+        "property": [{
+            "type": "Apartment",
+            "title": "Small house on an autumn’s day",
+            "img": "assets/images/real-estate/img-08.jpg",
+            "img_alt": "img-08.jpg"
+        }],
+        "location": "West Midland, United Kingdom",
+        "facility": [{
+            "bedroom": "4",
+            "bathroom": "2",
+            "area": "1796"
+        }],
+        "rating": "4.9",
+        "price": "$3895.39",
+        "starred": false,
+        "agent": "Josefa Weissnat",
+        "requirement": "Sale"
+    },{
+        "id": 5,
+        "property": [{
+            "type": "Villa",
+            "title": "Swimming pool side of the residential Ascot home.",
+            "img": "assets/images/real-estate/img-08.jpg",
+            "img_alt": "img-08.jpg"
+        }],
+        "location": "Estado de Mexico, Mexico",
+        "facility": [{
+            "bedroom": "4",
+            "bathroom": "2",
+            "area": "1145"
+        }],
+        "rating": "4.5",
+        "price": "$1452.39",
+        "starred": true,
+        "agent": "Federico Hand",
+        "requirement": "Rent"
+    },{
+        "id": 6,
+        "property": [{
+            "type": "Villa",
+            "title": "Crystal House",
+            "img": "assets/images/real-estate/img-06.jpg",
+            "img_alt": "img-06.jpg"
+        }],
+        "location": "Guipuzcua, Spain",
+        "facility": [{
+            "bedroom": "2",
+            "bathroom": "1",
+            "area": "1039"
+        }],
+        "rating": "4.8",
+        "price": "$1249.99",
+        "starred": false,
+        "agent": "Jerry Emard",
+        "requirement": "Rent"
+    },{
+        "id": 7,
+        "property": [{
+            "type": "Residency",
+            "title": "Duplex Square Valley",
+            "img": "assets/images/real-estate/img-05.jpg",
+            "img_alt": "img-05.jpg"
+        }],
+        "location": "Distrito Federal, Brazil",
+        "facility": [{
+            "bedroom": "3",
+            "bathroom": "2",
+            "area": "1039"
+        }],
+        "rating": "4.4",
+        "price": "$2579.31",
+        "starred": false,
+        "agent": "Buck Roberts",
+        "requirement": "Rent"
+    },{
+        "id": 8,
+        "property": [{
+            "type": "Villa",
+            "title": "Whitepace Vintage Villa",
+            "img": "assets/images/real-estate/img-04.jpg",
+            "img_alt": "img-04.jpg"
+        }],
+        "location": "Cantabria, Spain",
+        "facility": [{
+            "bedroom": "4",
+            "bathroom": "2",
+            "area": "1754"
+        }],
+        "rating": "4.9",
+        "price": "$3495.76",
+        "starred": true,
+        "agent": "Axel Kozey",
+        "requirement": "Sale"
+    },{
+        "id": 9,
+        "property": [{
+            "type": "Apartment",
+            "title": "Vintage Apartment",
+            "img": "assets/images/real-estate/img-03.jpg",
+            "img_alt": "img-03.jpg"
+        }],
+        "location": "Minas Gerais, Brazil",
+        "facility": [{
+            "bedroom": "2",
+            "bathroom": "1",
+            "area": "1025"
+        }],
+        "rating": "4.7",
+        "price": "$1249.99",
+        "starred": false,
+        "agent": "Domenic Dach",
+        "requirement": "Rent"
+    },{
+        "id": 10,
+        "property": [{
+            "type": "Residency",
+            "title": "Classic White House",
+            "img": "assets/images/real-estate/img-02.jpg",
+            "img_alt": "img-02.jpg"
+        }],
+        "location": "Minas Gerais, Brazil",
+        "facility": [{
+            "bedroom": "3",
+            "bathroom": "2",
+            "area": "1324"
+        }],
+        "rating": "4.5",
+        "price": "$3698.99",
+        "starred": false,
+        "agent": "Jerry Emard",
+        "requirement": "Rent"
+    },{
+        "id": 11,
+        "property": [{
+            "type": "Villa",
+            "title": "The Country House",
+            "img": "assets/images/real-estate/img-01.jpg",
+            "img_alt": "img-01.jpg"
+        }],
+        "location": "West Midlands, United Kingdom",
+        "facility": [{
+            "bedroom": "2",
+            "bathroom": "1",
+            "area": "1458"
+        }],
+        "rating": "4.5",
+        "price": "$2451.39",
+        "starred": true,
+        "agent": "Josefa Weissnat",
+        "requirement": "Sale"
+    }
+]

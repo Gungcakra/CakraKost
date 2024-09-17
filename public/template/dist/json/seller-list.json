@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "shop": [{
+            "img": "assets/images/companies/img-7.png",
+            "img_alt": "img-7.png",
+            "name": "Pich Hub"
+        }],
+        "seller": "Lenna Labadie",
+        "email": "lennalabadie@dayrep.com",
+        "phone": "+(253) 12345 67890",
+        "stock": "451",
+        "revenue": "$253.32",
+        "chartColor": ["--tb-danger"]
+    },{
+        "id": 2,
+        "shop": [{
+            "img": "assets/images/companies/img-5.png",
+            "img_alt": "img-5.png",
+            "name": "Jorce Medicines"
+        }],
+        "seller": "Dallin Schowalter",
+        "email": "dallinschowalter@rhyta.com",
+        "phone": "+(152) 32165 49873",
+        "stock": "1163",
+        "revenue": "$992.14",
+        "chartColor": ["--tb-success"]
+    },{
+        "id": 3,
+        "shop": [{
+            "img": "assets/images/companies/img-2.png",
+            "img_alt": "img-2.png",
+            "name": "Rotic Fashion"
+        }],
+        "seller": "Alvina Smitham",
+        "email": "alvinasmitham@dayrep.com",
+        "phone": "+(231) 14562 32165",
+        "stock": "1023",
+        "revenue": "$954.08",
+        "chartColor": ["--tb-success"]
+    },{
+        "id": 4,
+        "shop": [{
+            "img": "assets/images/companies/img-6.png",
+            "img_alt": "img-6.png",
+            "name": "Terry & Jerry"
+        }],
+        "seller": "Dallin Schowalter",
+        "email": "dallinschowalter@jourrapide.com",
+        "phone": "+(44) 98765 32104",
+        "stock": "357",
+        "revenue": "$346.35",
+        "chartColor": ["--tb-success"]
+    },{
+        "id": 5,
+        "shop": [{
+            "img": "assets/images/companies/img-3.png",
+            "img_alt": "img-3.png",
+            "name": "Themesbrand"
+        }],
+        "seller": "Kenyon Nienow",
+        "email": "kenyonnienow@dayrep.com",
+        "phone": "+(251) 25874 13690",
+        "stock": "841",
+        "revenue": "$654.78",
+        "chartColor": ["--tb-danger"]
+    },{
+        "id": 6,
+        "shop": [{
+            "img": "assets/images/companies/img-2.png",
+            "img_alt": "img-2.png",
+            "name": "Brand Infosys"
+        }],
+        "seller": "Alexandrea Jacobi",
+        "email": "alexandreajacobi@jourrapide.com",
+        "phone": "+(92) 67890 12345",
+        "stock": "395",
+        "revenue": "$153.84",
+        "chartColor": ["--tb-success"]
+    },{
+        "id": 7,
+        "shop": [{
+            "img": "assets/images/companies/img-7.png",
+            "img_alt": "img-7.png",
+            "name": "Pich Fashion"
+        }],
+        "seller": "Jaylon McClure",
+        "email": "jaylonmcclure@armyspy.com",
+        "phone": "+(62) 35791 15935",
+        "stock": "792",
+        "revenue": "$357.44",
+        "chartColor": ["--tb-success"]
+    },{
+        "id": 8,
+        "shop": [{
+            "img": "assets/images/companies/img-1.png",
+            "img_alt": "img-1.png",
+            "name": "Zibra Fashion"
+        }],
+        "seller": "Lenna Labadie",
+        "email": "lennalabadie@dayrep.com",
+        "phone": "+(120) 15935 32165",
+        "stock": "451",
+        "revenue": "$253.32",
+        "chartColor": ["--tb-danger"]
+    }
+]

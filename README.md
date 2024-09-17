@@ -2,6 +2,13 @@
 
 Cakra Kost adalah aplikasi manajemen kost berbasis web yang dibangun menggunakan Laravel. Aplikasi ini dirancang untuk membantu pemilik kost dalam mengelola berbagai aspek operasional kost seperti kamar, penghuni, pembayaran, dan laporan secara efisien.
 
+## Teknologi yang Digunakan
+
+- **[Laravel](https://laravel.com/)** - Framework PHP untuk backend.
+- **[MySQL](https://www.mysql.com/)** - Database management system untuk penyimpanan data.
+- **[Bootstrap](https://getbootstrap.com/)** - Framework CSS untuk styling antarmuka.
+
+
 ## Fitur Utama
 
 - **Manajemen Data Kamar**
